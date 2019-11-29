@@ -4,4 +4,4 @@ The project uses color tracking for detection of specific color and helps in mak
 
 Here is the Video Link of the work done:
 
-https://youtu.be/SBe2S-Z23NM
+https://www.youtube.com/watch?v=SBe2S-Z23NM
